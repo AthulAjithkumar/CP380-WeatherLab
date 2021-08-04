@@ -66,7 +66,7 @@ namespace WeatherLab
                 Console.WriteLine($"\n{x.Year}\t{x.HDD}\t{x.CDD}");
             }
 
-            // ?? TODO ??
+            
 
             Console.WriteLine("\nTop 5 Most Variable Days");
             Console.WriteLine("YYYY-MM-DD\tDelta");
